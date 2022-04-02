@@ -63,7 +63,7 @@ While developing this project I wanted to make cool animations and better color 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/1957790a9a634baa9a9a1a0120771f89)
 
 
 ## License
