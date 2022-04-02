@@ -41,6 +41,12 @@ The following **additional** features are implemented:
 
 https://user-images.githubusercontent.com/62724608/161340702-e1b8b224-82c5-4094-b641-688956d15672.mov
 
+## Video Walkthrough (GIF)- Alternative Links
+https://youtu.be/jPixd2fERSI - Full Video
+
+http://g.recordit.co/8hli0cwWPH.gif - PT 1
+http://g.recordit.co/gLxAXgMqwg.gif - PT 2
+http://g.recordit.co/UuXvszwWzA.gif - Losing
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
